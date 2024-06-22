@@ -11,3 +11,6 @@
 5-Check for upper and lower case letters 
 6- apply the formula
 7-output the ciphertext
+
+
+BU PROGRAM BENİM GİBİ C DİLİ İLE BAŞLANGIÇ YAPANLARA YÖNELİK , ONLARIN RAHATÇA ANLAYACAĞI ŞEKİLDE YORUM SATIRLARI İLE DESTEKLENEREK YAPILMIŞTIR.
